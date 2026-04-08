@@ -32,6 +32,9 @@ He liderado iniciativas que reducen tiempos de procesamiento de horas a minutos,
 
 ### Tools & Platforms
 ![Databricks](https://img.shields.io/badge/Databricks-Data-red)
+![SSIS](https://img.shields.io/badge/SSIS-ETL-blue)
+![SSAS](https://img.shields.io/badge/SSAS-Analytics-green)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-AI-black)
 ![Git](https://img.shields.io/badge/Git-VersionControl-black)
 
 ---
