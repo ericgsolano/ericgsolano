@@ -36,23 +36,6 @@ He liderado iniciativas que reducen tiempos de procesamiento de horas a minutos,
 
 ---
 
-## 📌 Proyectos Destacados
-
-### 🔹 Automatización de Clasificación de Cartera
-- Reducción de tiempo de procesamiento: **12 horas → 5 minutos**
-- Implementación de pipelines automatizados
-- Impacto directo en análisis de cartera No Minorista
-
-### 🔹 Cubo de Transacciones
-- Desarrollo de solución analítica para monitoreo diario
-- Mejora en tiempos de análisis para áreas de estrategia
-
-### 🔹 Cubo de Saldos (Retail & Comercial)
-- Reducción de disponibilidad de información: **Día 4 → Día 2**
-- Optimización de procesos de carga y modelamiento
-
----
-
 ## 🎯 Enfoque Profesional
 
 - Liderazgo de equipos de datos y analítica  
