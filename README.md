@@ -24,6 +24,8 @@ He liderado iniciativas que reducen tiempos de procesamiento de horas a minutos,
 ### Lenguajes
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue)
 ![Python](https://img.shields.io/badge/Python-Advanced-yellow)
+![C#](https://img.shields.io/badge/C%23-Backend-purple)
+![Java](https://img.shields.io/badge/Java-Backend-red)
 
 ### Data & Analytics
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-Modeling-green)
