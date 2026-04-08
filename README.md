@@ -15,6 +15,13 @@ Soy especialista en ingeniería de datos y analítica, enfocado en:
 
 ---
 
+## 🎯 Enfoque Profesional
+- Liderazgo de equipos de datos
+- Estrategia de información para negocio
+- Gobierno de datos
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Lenguajes
