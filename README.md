@@ -7,18 +7,15 @@
 ---
 
 ## 🧠 Sobre mí
-Soy especialista en ingeniería de datos y analítica, enfocado en:
-- Data Warehousing y modelamiento de datos
+
+Soy especialista en ingeniería de datos y analítica con amplia experiencia en el sector financiero, enfocado en:
+
+- Construcción de Data Warehouses y modelamiento de datos
 - Automatización de procesos ETL
-- Analítica para gestión de riesgo crediticio
-- Desarrollo de soluciones para toma de decisiones
+- Desarrollo de soluciones analíticas para riesgo crediticio
+- Generación de insights para la toma de decisiones de negocio
 
----
-
-## 🎯 Enfoque Profesional
-- Liderazgo de equipos de datos
-- Estrategia de información para negocio
-- Gobierno de datos
+He liderado iniciativas que reducen tiempos de procesamiento de horas a minutos, mejorando la disponibilidad y calidad de la información.
 
 ---
 
@@ -28,11 +25,12 @@ Soy especialista en ingeniería de datos y analítica, enfocado en:
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue)
 ![Python](https://img.shields.io/badge/Python-Advanced-yellow)
 
-### Data & BI
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-orange)
-![ETL](https://img.shields.io/badge/ETL-Pipelines-green)
+### Data & Analytics
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-Modeling-green)
+![ETL](https://img.shields.io/badge/ETL-Automation-orange)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow)
 
-### Tools
+### Tools & Platforms
 ![Databricks](https://img.shields.io/badge/Databricks-Data-red)
 ![Git](https://img.shields.io/badge/Git-VersionControl-black)
 
@@ -40,26 +38,36 @@ Soy especialista en ingeniería de datos y analítica, enfocado en:
 
 ## 📌 Proyectos Destacados
 
-### 🔹 Credit Risk Analytics
-- Modelos de datos para análisis de riesgo
-- Optimización de tiempos de procesamiento
+### 🔹 Automatización de Clasificación de Cartera
+- Reducción de tiempo de procesamiento: **12 horas → 5 minutos**
+- Implementación de pipelines automatizados
+- Impacto directo en análisis de cartera No Minorista
 
-### 🔹 ETL Automation
-- Automatización de pipelines de datos
-- Reducción de procesos manuales
+### 🔹 Cubo de Transacciones
+- Desarrollo de solución analítica para monitoreo diario
+- Mejora en tiempos de análisis para áreas de estrategia
 
-### 🔹 Data Cubes
-- Construcción de cubos analíticos
-- Mejora en disponibilidad de información
+### 🔹 Cubo de Saldos (Retail & Comercial)
+- Reducción de disponibilidad de información: **Día 4 → Día 2**
+- Optimización de procesos de carga y modelamiento
+
+---
+
+## 🎯 Enfoque Profesional
+
+- Liderazgo de equipos de datos y analítica  
+- Estrategia de información orientada al negocio  
+- Gobierno y calidad de datos  
+- Desarrollo de soluciones escalables  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericgsolano&show_icons=true)
 
 ---
 
 ## 📫 Conecta conmigo
 
-- 💼 LinkedIn: [https://linkedin.com/in/TU_LINK](https://www.linkedin.com/in/eric-s-4a13824a )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/eric-s-4a13824a)
